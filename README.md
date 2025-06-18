@@ -28,22 +28,22 @@ GestorNoticias/
 
 │ └── com.gestor.noticias/
 
-│ ├── Main.java
+│           ├── Main.java
 
-│ ├── modelo/Noticia.java
+│           ├── modelo/Noticia.java
 
-│ ├── servicio/GestorNoticias.java
+│           ├── servicio/GestorNoticias.java
 
-│ └── util/Utilidades.java
+│           └── util/Utilidades.java
 
 ├── test/
-│ └── com.gestor.noticias/
+│   └── com.gestor.noticias/
 
-│ ├── MainTest.java
+│           ├── MainTest.java
 
-│ ├── modelo/NoticiaTest.java
+│           ├── modelo/NoticiaTest.java
 
-│ └── servicio/GestorNoticiasTest.java
+│           └── servicio/GestorNoticiasTest.java
 
 ├── lib/ → Librerías externas (por ejemplo, JUnit 5)
 
