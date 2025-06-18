@@ -23,19 +23,32 @@ Las noticias tienen la siguiente información:
 ## 🗂️ Estructura del proyecto
 
 GestorNoticias/
+
 ├── src/
+
 │ └── com.gestor.noticias/
+
 │ ├── Main.java
+
 │ ├── modelo/Noticia.java
+
 │ ├── servicio/GestorNoticias.java
+
 │ └── util/Utilidades.java
+
 ├── test/
 │ └── com.gestor.noticias/
+
 │ ├── MainTest.java
+
 │ ├── modelo/NoticiaTest.java
+
 │ └── servicio/GestorNoticiasTest.java
+
 ├── lib/ → Librerías externas (por ejemplo, JUnit 5)
-├── README.md
+
+└── README.md
+
 ---
 
 ## 🧪 Pruebas unitarias
@@ -78,7 +91,7 @@ Para ejecutar el programa principal:
 Proyecto desarrollado con fines educativos.  
 Asignatura: **Entornos de Desarrollo**  
 Curso: **1º de Desarrollo Web / Multiplataforma**  
-Centro: **[Nombre del centro educativo]**
+Centro: **C.I.F.P ciudad Jardin L.H.I.I**
 
 
 
